@@ -1,5 +1,11 @@
 ## Automated IoT-Based Monitoring of Industrial Hemp in Greenhouses Using Open-Source Systems and Computer Vision
 
+Carmen Rocamora-Osorio <sup>1,2*</sup>, Fernando Aragon-Rodriguez <sup>1</sup>, Ana María Codes-Alcaraz <sup>2</sup>, Francisco Javier Ferrández-Pastor <sup>3</sup>
+
+<sup>1</sup>	Dpto. de Ingeniería, Área Ingeniería Agroforestal, Escuela Politécnica Superior de Orihuela (EPSO), Universi-dad Miguel Hernández, Ctra. Beniel km. 3,2, 03312, Orihuela (Alicante)<br>
+<sup>2</sup>	Instituto de Investigación e Innovación Agroalimentaria y Agroambiental (CIAGRO), Universidad Miguel Hernández, Ctra. Beniel km. 3,2, 03312, Orihuela (Alicante)<br>
+<sup>3</sup>	Grupo de investigación Informática Industrial y Redes de Computadores (I2RC), Universidad de Alicante, 03690 Alicante<br>
+
 ![segmentacion_clasificacion](/img.png)
 
 ### Data repository
