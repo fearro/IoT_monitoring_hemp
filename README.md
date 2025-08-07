@@ -6,17 +6,17 @@ Repository of data related to the paper: "Automated IoT-Based Monitoring of Indu
 
 The repository has the following structure:
 
-├── 📁 Hemp_growth
-│   ├── C1
-│   ├── C2
-│   ├── C3
-│   ├── C4
-│   └── C5
-├── 📁 Hemp_water_stress
-│   └── 📁 model
-│   │   ├── yolo11x-cls.pt
-│   └── 📁 train
-│   └── 📁 test
+├── 📁 Hemp_growth<br>
+│   ├── C1<br>
+│   ├── C2<br>
+│   ├── C3<br>
+│   ├── C4<br>
+│   └── C5<br>
+├── 📁 Hemp_water_stress<br>
+│   └── 📁 model<br>
+│   │   ├── yolo11x-cls.pt<br>
+│   └── 📁 train<br>
+│   └── 📁 test<br>
 
 
 
