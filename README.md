@@ -17,8 +17,14 @@ The repository has the following structure:
 │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;    │   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;├── yolo11x-cls.pt<br>
 │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;    └── 📁 train<br>
 │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;    │   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;├── 📁 healthy<br>
+│&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;    │   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;├── 📁 water stress 3 days<br>
+│&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;    │   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;├── 📁 water stress 6 days<br>
+│&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;    │   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;├── 📁 water stress 9 days<br>
 │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;    └── 📁 test<br>
 │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;    │   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;├── 📁 healthy<br>
+│&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;    │   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;├── 📁 water stress 3 days<br>
+│&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;    │   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;├── 📁 water stress 6 days<br>
+│&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;    │   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;├── 📁 water stress 9 days<br>
 
 
 ### Abstract
