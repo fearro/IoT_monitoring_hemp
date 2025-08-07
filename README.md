@@ -1,2 +1,5 @@
-# IoT_monitoring_hemp
-Repository of data related to the scientific article "Automated IoT-Based Monitoring of Industrial Hemp in Greenhouses Using Open-Source Systems and Computer Vision", DOI:
+## Automated IoT-Based Monitoring of Industrial Hemp in Greenhouses Using Open-Source Systems and Computer Vision
+
+### Data repository
+
+Repository of data related to the paper: "Automated IoT-Based Monitoring of Industrial Hemp in Greenhouses Using Open-Source Systems and Computer Vision", DOI:
