@@ -7,17 +7,18 @@ Repository of data related to the paper: "Automated IoT-Based Monitoring of Indu
 The repository has the following structure:
 
 ├── 🌱 Hemp_growth<br>
-│   ├── C1<br>
-│   ├── C2<br>
-│   ├── C3<br>
-│   ├── C4<br>
-│   └── C5<br>
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ├── C1<br>
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ├── C2<br>
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ├── C3<br>
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ├── C4<br>
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   └── C5<br>
 ├── 💧 Hemp_water_stress<br>
-│   └── 📁 model<br>
-│   │   ├── yolo11x-cls.pt<br>
-│   └── 📁 train<br>
-│   └── 📁 test<br>
-
+│&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;       └── 📁 model<br>
+│&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;    │   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;├── yolo11x-cls.pt<br>
+│&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;    └── 📁 train<br>
+│&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;    │   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;├── 📁 healthy<br>
+│&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;    └── 📁 test<br>
+│&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;    │   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;├── 📁 healthy<br>
 
 
 ### Abstract
