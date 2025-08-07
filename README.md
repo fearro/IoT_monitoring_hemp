@@ -1,4 +1,4 @@
-## Automated IoT-Based Monitoring of Industrial Hemp in Greenhouses Using Open-Source Systems and Computer Vision
+## 📊 Automated IoT-Based Monitoring of Industrial Hemp in Greenhouses Using Open-Source Systems and Computer Vision
 
 ![segmentacion_clasificacion](/img.png)
 
@@ -13,6 +13,8 @@ Carmen Rocamora-Osorio <sup>1,2*</sup>, Fernando Aragon-Rodriguez <sup>1</sup>, 
 Repository of data related to the paper: "Automated IoT-Based Monitoring of Industrial Hemp in Greenhouses Using Open-Source Systems and Computer Vision", DOI:
 
 The **"Hemp_growth"** folder contains hourly images of the monitored plants (C1, C2, C3, C4, and C5) from transplanting until 20 days after transplanting. The **"Hemp_water_stress"** folder contains the train and test data and the trained model for water stress detection. The repository has the following structure:
+
+***Table of contents***
 
 ├── 🌱 📁 Hemp_growth<br>
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ├── 📁 C1<br>
