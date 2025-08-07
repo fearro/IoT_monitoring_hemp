@@ -1,6 +1,6 @@
 ## Automated IoT-Based Monitoring of Industrial Hemp in Greenhouses Using Open-Source Systems and Computer Vision
 
-![segmentacion_clasificacion](img/diagrama.png)
+![segmentacion_clasificacion](/img.png)
 
 ### Data repository
 
